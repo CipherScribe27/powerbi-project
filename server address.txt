@@ -1,0 +1,4 @@
+server address: 66.165.248.146
+database name: vms
+USERNAME: vmspub
+password: 6ke01Eu4#
